@@ -1,0 +1,10 @@
+# CodeMaster MCP - opencode 部署版依赖
+# 在 opencode 环境中运行所需的最小依赖集
+
+fastmcp>=1.0.0
+tree-sitter-languages>=1.5.0
+
+# 可选系统工具（推荐安装以获得完整功能）:
+# - git (用于 git 历史工具)
+# - ripgrep (rg) (用于快速搜索)
+# - shellcheck (用于 shell 脚本分析)
